@@ -17,3 +17,4 @@ else:
   time.sleep(1)
   message = "{:s} ".format(message)
   print(message * count)
+input("press enter to end the session: ")
