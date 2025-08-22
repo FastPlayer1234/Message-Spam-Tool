@@ -11,7 +11,7 @@ if len(message) == 0:
 # How many times should the computer spam the message
 count  = int(input("how many times would you like this message to be repeated? "))
 if count == 1:
-  print("I'm sorrt, using this tool for this is useless.")
+  print("I'm sorry, using this tool for this is useless.")
 else:
   print("okay :)\n loading...\n this tool was made by: Omar Ashraf")
   time.sleep(1)
